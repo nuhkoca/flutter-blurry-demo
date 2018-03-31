@@ -1,8 +1,9 @@
-# flutter_blurry_demo
+# Flutter Blurry Demo
 
-Flutter Blurry Demo
+A sample Flutter App that gives a blurry touch to artist detail page.
 
-## Getting Started
+## Libraries used
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+* [Url Launcher](https://pub.dartlang.org/packages/url_launcher)
+
+## Screenshot
